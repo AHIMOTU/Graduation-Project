@@ -24,7 +24,7 @@ git，https://git-scm.com/downloads
 
 + 克隆项目代码
 
-    在打开的终端内，输入 git clone https://github.com/AHIMOTU/Graduation-Project.git
+    在打开的终端内，输入 `git clone https://github.com/AHIMOTU/xtu-spm-web.git`
 
 # 项目运行
 
@@ -35,6 +35,7 @@ git，https://git-scm.com/downloads
 + 安装依赖包
   
    `npm config set registry https://registry.npm.taobao.org` (设置淘宝镜像，安装更快)
+   
    `npn install`
    
 + 运行项目
